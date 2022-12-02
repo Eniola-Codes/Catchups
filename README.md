@@ -1,6 +1,6 @@
 # Catchups application
 
-Catchups let's you see events or activities to attend or post them for others with the needed details to attend so others can see it.
+ Catchups let's you see events or activities to attend or post them with the needed details so others can see it.
 
 **End Result**
 
