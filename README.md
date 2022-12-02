@@ -4,7 +4,7 @@ Catchups let's you see events or activities to attend or post them for others wi
 
 **End Result**
 
-Click Link Here : https://catchups-by-eniola.vercel.app/
+Click Link Here : https://catchups-by-eniola.netlify.app/
 # Description
 
 **Details**
