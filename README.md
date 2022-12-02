@@ -1,17 +1,22 @@
 # Bucket List application
 
-A BucketList application which you can use to set activities or task you want to do in the future, or you have dont in the past.
+Catchups let's you see events or activities to attend or post them for others with the needed details to attend so others can see it.
 
 **End Result**
 
-Click Link Here : https://bucketlistapp-by-eniola.netlify.app/
+Click Link Here : https://catchups-by-eniola.vercel.app/
 # Description
 
 **Details**
 
-My bucket list application is used to set activities which you would love to do in the future, or that you have done in the past.
+Catchups let's you see events or activities to attend or post them for others with the needed details to attend so others can see it.
 
-The application takes on three input from the user in a form which are :
+The app has three(3) pages which are the all catchups, catchup details and the add catchup.
+
+the all catchup page which is the first page the user visits when entering the website
+
+
+The application allows you to add events  takes on three input from the user in a form which are :
 
 - The Task
 - The Date
