@@ -21,7 +21,7 @@ const router = useRouter()
           <address>{props.address}</address>
         </div>
         <div className={classes.actions}>
-          <button onClick={onMeetupDetailsHandler}>Show Details</button>
+          <button onClick={onMeetupDetailsHandler}>View Details</button>
         </div>
       </Card>
     </li>
