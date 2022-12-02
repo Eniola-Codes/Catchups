@@ -1,4 +1,4 @@
-# Bucket List application
+# Catchups application
 
 Catchups let's you see events or activities to attend or post them for others with the needed details to attend so others can see it.
 
